@@ -18,4 +18,7 @@ public class HelloWorldClass {
     public int intMethod(){
         return 0;
     }
+
+    public void addedMethod(){}
+
 }
